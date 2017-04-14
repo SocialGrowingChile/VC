@@ -1,12 +1,12 @@
 {
   "name": "rest-api-vota-conciente",
-  "version": "0.0.0",
-  "description": "TODO add a description",
+  "version": "0.1.0",
+  "description": "Web de Vota conciente",
   "title": "restApiVotaConciente",
   "author": "REST_API_VOTA_CONCIENTE <contacto@dispersiondigital.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rest_api_vota_conciente/rest-api-vota-conciente.git"
+    "url": "https://git@github.com:SocialGrowingChile/VC.git"
   },
   "readme": "TODO add a readme description",
   "license": "TODO",
@@ -19,7 +19,7 @@
   "bin": {
     "ravc": "server.js"
   },
-  "dependencies": {
+  "dependencies": { 
     "app-module-path": "1.1.0",
     "bluesky-logger": "0.7.0",
     "body-parser": "1.15.2",
